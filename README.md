@@ -6,8 +6,7 @@ A new presentation will cover Java 7+ and the latest developments in this area. 
 
 [![](https://img.shields.io/static/v1.svg?label=license&message=BSD3&color=blue)](LICENSE)
 
-
-Java Virtual Machine Internals - Learn how java virtual machine (JVM) works, and how can you properly configure your JVM to run your Java applicatiuons. A short introduction to Java Virtual Machine: memory allocation, garbage collectors. Includes a practically method how to discover the best heap settings for your applications.   
+Usually, many Java applications are deployed with ad-hoc settings without proper testing, not suitable for production usage. Learn how can you turbo charge your Java applications for performance, understanding how java virtual machine (JVM) works, when do you need to tune your JVM for better throughput and footprint. This is a short introduction into Java Virtual Machine Hotspot implementation, developed by Sun Microsystems (Oracle), including memory allocation, the garbage collectors, and a simple and practically method to select the best heap settings for different applications. Requires open-source sotfware.
 
 ## Contents
 
