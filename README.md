@@ -11,3 +11,6 @@ Java Virtual Machine Internals - Learn how java virtual machine (JVM) works, and
 ### Memory management and Garbage Collection Heap Sizing
 ### Java 5 and 6 What's new ?
 ### Troubleshooting
+
+
+Read the presentation here: https://github.com/sparvu/jvm-internals/blob/main/jvm-internals.pdf
